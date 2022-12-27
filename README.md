@@ -1,3 +1,3 @@
 # GravyTest
 Running Unity Version 2022.2.1f1
-Also has device simulator package installed
+Select the first scene and adjust the aspect ratio 3:4/any device aspect
